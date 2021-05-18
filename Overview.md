@@ -71,7 +71,7 @@ Use the following procedure to create an activation key that you can use to subs
 1. Select all the product subscriptions in the table.
 1. Click Add Selected to save.
 
-<! -- 
+<!-- 
 ### D. Registering a CentOS Stream host to Foreman
 Use the following procedure to register an existing CentOS Stream host to Foreman
 
@@ -96,11 +96,11 @@ This RPM installs the necessary certificates for accessing repositories on Forem
 ```bash
 # yum repolist
 
-repo id                                                           												repo name
+repo id                                                           repo name
 Default_Organization_Centos_Stream_AppStream_x86_64_os            AppStream x86_64 os
 Default_Organization_Centos_Stream_BaseOS_x86_64_os               BaseOS x86_64
 Uploading Enabled Repositories Report
 ```
 
 6. Check the /etc/yum.repos.d/redhat.conf and ensure that the appropriate repositories have been enabled.
---> 
+7. --> 

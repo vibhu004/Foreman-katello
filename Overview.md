@@ -57,7 +57,7 @@ Procedure
 4. Select both repositories
 5. Click Sync Now
 
-###C. Creating an Activation Key
+### C. Creating an Activation Key
 Use the following procedure to create an activation key that you can use to subscribe your hosts to content managed by Foreman.
 
 1. In the Foreman web UI, navigate to Content > Activation keys and click Create Activation Key.
